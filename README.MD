@@ -73,7 +73,6 @@ Here’s the **raw `README.md` block** rewritten with **plain links (no underlin
 
 ---
 
-```markdown
 # EXPERT_MASTER_BUILD v2.6 – Firmware & Drivers
 
 ## 🔧 Firmware / Microcode Binaries
@@ -424,7 +423,7 @@ Dual firmware fallback ensures recovery under failure conditions.
 
 ---
 
-## 📌 Comparison Notes
+## Comparison Notes
 
 - **Professional/Calm** → Ocean Teal + Steel Grey suits enterprise or workstation branding.  
 - **Aggressive/Gaming** → Crimson Red + Matte Black emphasizes performance and energy.  
@@ -448,6 +447,8 @@ Dual firmware fallback ensures recovery under failure conditions.
 ---
 
 ## Recommendation
+
+```
 
 ```
 (EXPERT_MASTER_BUILD
