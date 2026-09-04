@@ -388,7 +388,6 @@ All components validated under aerospace‑grade compliance standards.
 Secure boot chain enforced via Pluton, TPM, and OpenTitan.  
 Dual firmware fallback ensures recovery under failure conditions.
 
-```
 
 # Color Options Comparison
 
