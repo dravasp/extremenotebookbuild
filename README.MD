@@ -1,5 +1,50 @@
 ```
 
+# EXPERT_MASTER_BUILD v2.6 – Build Stages
+
+## Stage 1 – PCB Fabrication
+- 10‑layer stackup
+- Machining and shielding
+- Backdrill for PCIe Gen5 lanes
+
+## Stage 2 – Component Assembly
+- CPU, GPU, NPU installation
+- DDR5X and HBM3 memory integration
+- Storage (NVMe Gen5 SSD, Blu‑ray drive)
+- Security chips (TPM, Pluton, OpenTitan)
+- Networking modules (WiFi7/BT6, QSFP‑DD, Thunderbolt5)
+
+## Stage 3 – Cooling & Power Integration
+- Graphene vapor chamber placement
+- Dyson ionic blower installation
+- VRM, PMIC, MOSFET tuning
+- Liquid metal TIM application
+
+## Stage 4 – Firmware & BIOS
+- Flash EC controller
+- TPM Infineon firmware
+- Microsoft Pluton firmware
+- OpenTitan secure boot integration
+- GPU/NPU microcode updates
+
+## Stage 5 – Driver & OS Installation
+- Windows drivers (.SYS, .CAB)
+- Linux drivers (.KO, .DEB, .RPM)
+- OS images (Windows, Ubuntu, FreeBSD, Proxmox, VMware ESXi)
+- Multi‑boot loader configuration (UEFI Secure Boot, GRUB2, Windows Boot Manager)
+
+## Stage 6 – Testing & Validation
+- Thermal and EMI/ESD compliance
+- RoHS, CE, BIS, UL, CCC certifications
+- FIPS140‑3 and NIST SP800‑193 validation
+- Performance benchmarking
+
+## Stage 7 – Serviceability & QA
+- Rework checks
+- Warranty validation
+- Packaging and final inspection
+
+
 ## Overview
 Aerospace‑grade extreme performance laptop build with complete lifecycle artifacts:
 - Hardware BOM
