@@ -113,7 +113,6 @@ Here’s the **raw `README.md` block** rewritten with **plain links (no underlin
 | Samsung NVMe Gen5 | nvme_gen5.ko | samsung.com | https://semiconductor.samsung.com/consumer-storage/magician/ | Firmware ISO notes |
 | Driver Bundle DEB | drivers_bundle.deb | lenovo.com | https://download.lenovo.com/servers_pdf/ | Lenovo authenticity signature |
 | Driver Bundle RPM | drivers_bundle.rpm | lenovo.com | https://download.lenovo.com/servers_pdf/ | Lenovo authenticity signature |
-```
 
 ---
 
